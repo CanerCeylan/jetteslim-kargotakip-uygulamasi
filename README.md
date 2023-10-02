@@ -2,11 +2,13 @@
 
 Kargo takip uygulamaları, günümüz iş dünyasında ve tüketici taleplerinde önemli bir rol oynamaktadır. Bu nedenle, bu tür bir uygulama geliştirmek ve bir dizi ihtiyaç/nedeni içermektedir:
 
-  * Müşteri memnuniyeti:
-     Kargo takip uygulamaları, müşterilere gönderilerinin durumu hakkında anlık bilgi sunar. Bu, müşterilerilerin memnuniyetini artırır ve şirketin müşteri ilişkilerini güçlendirir.
+  * **Müşteri memnuniyeti:**
+
+    Kargo takip uygulamaları, müşterilere gönderilerinin durumu hakkında anlık bilgi sunar. Bu, müşterilerilerin memnuniyetini artırır ve şirketin müşteri ilişkilerini güçlendirir.
      
-  * Rekabetçilik ve inovasyon:
-     Kargo takip uygulamaları, bir işletmenin rekabetçiğini artırmak ve sektörde öne çıkmak için bir fırsat sunar. İnovasyonla geliştirilen uygulamalar, yeni pazarlar ve müşteri segmentleri açabilir.
+  * **Rekabetçilik ve inovasyon:**
+
+    Kargo takip uygulamaları, bir işletmenin rekabetçiğini artırmak ve sektörde öne çıkmak için bir fırsat sunar. İnovasyonla geliştirilen uygulamalar, yeni pazarlar ve müşteri segmentleri açabilir.
 
   * 
 
