@@ -1,4 +1,14 @@
-# Masaüstü Kargo Takip Uygulaması (C#)
+# jetteslim Masaüstü Kargo Takip Uygulaması (C#)
+
+Kargo takip uygulamaları, günümüz iş dünyasında ve tüketici taleplerinde önemli bir rol oynamaktadır. Bu nedenle, bu tür bir uygulama geliştirmek ve bir dizi ihtiyaç/nedeni içermektedir:
+
+  * Müşteri memnuniyeti:
+     Kargo takip uygulamaları, müşterilere gönderilerinin durumu hakkında anlık bilgi sunar. Bu, müşterilerilerin memnuniyetini artırır ve şirketin müşteri ilişkilerini güçlendirir.
+     
+  * Rekabetçilik ve inovasyon:
+     Kargo takip uygulamaları, bir işletmenin rekabetçiğini artırmak ve sektörde öne çıkmak için bir fırsat sunar. İnovasyonla geliştirilen uygulamalar, yeni pazarlar ve müşteri segmentleri açabilir.
+
+  * 
 
 ![logoson](https://github.com/CanerCeylan/jetteslim-kargotakip-uygulamasi/assets/70045273/847e652a-f678-44b6-80f9-3b42a9b20128)
 
