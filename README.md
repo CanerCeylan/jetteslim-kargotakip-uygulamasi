@@ -40,7 +40,7 @@ SQL_Backup klasörü içerisine, adres verilerini içeren hazır .csv uzantılı
 
 [Adres verileri için tıklayınız...](https://postakodu.ptt.gov.tr/)
 
-.csv uzantılı dosyayı import işlemi sonrasında Türkçe karakter sorunu için:
+Paylaşılan .csv uzantılı dosyada sorun görülmemiştir. Fakat yeniden oluşturuyorsanız, .csv uzantılı dosyayı import işlemi sonrasında Türkçe karakter sorunu için:
 
 [Ziyaret edebilirsiniz...](https://www.excel.web.tr/threads/excel-csv-tuerkce-karakter-duezeltme-coezuemue.153645/)
 
