@@ -32,6 +32,8 @@ Günümüz kargo takip uygulamaları üzerinde UI/UX kavramlarının önemi büy
 
 ## Kurulum Notu
 
+Proje kodlarında mail adresi bilgileri güncellenmelidir.
+
 Adres verileri PTT üzerinden alınmıştır. İlgili .xlsx uzantılı dosya indirildikten sonra .csv uzantılı dosya haline getirilmiştir ve SQL import işlemi gerçekleştirilmiştir.
 
 [How to import data from Microsoft Excel into Microsoft SQL Server](https://www.youtube.com/watch?v=JVP9frj2VSQ)
