@@ -30,6 +30,20 @@ Günümüz kargo takip uygulamaları üzerinde UI/UX kavramlarının önemi büy
 
 ![Screenshot_2](https://github.com/CanerCeylan/jetteslim-kargotakip-uygulamasi/assets/70045273/3bf1295b-da46-4a91-9a3e-3c958d64f2ba)
 
+## Kurulum Notu
+
+Adres verileri PTT üzerinden alınmıştır. İlgili .xlsx uzantılı dosya indirildikten sonra .csv uzantılı dosya haline getirilmiştir ve SQL import işlemi gerçekleştirilmiştir.
+
+[How to import data from Microsoft Excel into Microsoft SQL Server](https://www.youtube.com/watch?v=JVP9frj2VSQ)
+
+SQL_Backup klasörü içerisine, adres verilerini içeren hazır .csv uzantılı dosya eklenmiştir. Güncel olmadığını düşünüyorsanız:
+
+[Adres verileri için tıklayınız...](https://postakodu.ptt.gov.tr/)
+
+.csv uzantılı dosyayı import işlemi sonrasında Türkçe karakter sorunu için:
+
+[Ziyaret edebilirsiniz...](https://www.excel.web.tr/threads/excel-csv-tuerkce-karakter-duezeltme-coezuemue.153645/)
+
 ## Daha Fazlası İçin
 Proje sunum/dokümantasyon ve gereksinimleri için: [kargo_takip_sunum_dokumani.pdf](https://github.com/CanerCeylan/jetteslim-kargotakip-uygulamasi/files/12783007/kargo_takip_sunum_dokumani.pdf)
 
